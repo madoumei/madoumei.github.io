@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>split target</title>
+      <link href="/2021/09/18/split-target/"/>
+      <url>/2021/09/18/split-target/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>  什么时候拆解任务呢,就是把任务进行缩减,比如说一个长期任务我们可以缩减为一个短期可以轻松完成的.</p><h2 id="如何做"><a href="#如何做" class="headerlink" title="如何做"></a>如何做</h2><ul><li>看一本书   —&gt; 看一页书</li><li>写一篇文章 —&gt; 写一句话</li><li>跑10公里   —&gt; 穿上跑鞋</li><li>做100次俯卧撑 —&gt; 做1次俯卧撑</li><li>多吃蔬菜水果 —&gt;  吃一个水果</li><li>编写一个程序  —&gt; 编写一个函数 —&gt; 编写一行代码<br>这样做的目的是使上手变得超级容易,让你先上手再说.一旦开始做了(这可能是最艰难的一步),<br>你就会开始有动力,可能会继续做下去.</li><li>阅读一页 —&gt; 阅读10页 —&gt; 读完第一章</li><li>写一个句子 —&gt; 写文章的开头 —&gt; 写出正文</li><li>穿上跑鞋 —&gt; 步行5分钟 —&gt; 跑步5分钟<br>一旦开始,继续做下去就会容易的多.有时,你甚至会发现,自己在不知不觉间已经完成任务.</li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> learn habit </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>how to install minio for debian and use https.md</title>
       <link href="/2021/09/17/how-to-install-minio-for-debian-and-use-https-md/"/>
       <url>/2021/09/17/how-to-install-minio-for-debian-and-use-https-md/</url>
