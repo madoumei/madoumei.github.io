@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://madoumei.github.io/2021/11/02/how-install-mysql-for-docker/</loc>
+    
+    <lastmod>2021-11-02</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://madoumei.github.io/2021/09/30/how-use-gradle/</loc>
     
     <lastmod>2021-09-30</lastmod>
@@ -60,50 +67,64 @@
 
   <url>
     <loc>https://madoumei.github.io/</loc>
-    <lastmod>2021-09-30</lastmod>
+    <lastmod>2021-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://madoumei.github.io/tags/docker/</loc>
+    <lastmod>2021-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://madoumei.github.io/tags/mysql/</loc>
+    <lastmod>2021-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://madoumei.github.io/tags/server/</loc>
-    <lastmod>2021-09-30</lastmod>
+    <lastmod>2021-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://madoumei.github.io/tags/debian/</loc>
-    <lastmod>2021-09-30</lastmod>
+    <lastmod>2021-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://madoumei.github.io/tags/minio/</loc>
-    <lastmod>2021-09-30</lastmod>
+    <lastmod>2021-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://madoumei.github.io/tags/gradle/</loc>
-    <lastmod>2021-09-30</lastmod>
+    <lastmod>2021-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://madoumei.github.io/tags/learn/</loc>
-    <lastmod>2021-09-30</lastmod>
+    <lastmod>2021-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://madoumei.github.io/tags/habit/</loc>
-    <lastmod>2021-09-30</lastmod>
+    <lastmod>2021-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
